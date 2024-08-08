@@ -14,7 +14,9 @@ public class Principal
         String texto = s.nextLine();
         System.out.print("Insira o separador: ");
         String separador = s.nextLine();
+        System.out.println();
         st.separarTexto(texto, separador);
+        System.out.println();
         s.close();
     }    
 }
