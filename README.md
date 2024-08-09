@@ -13,7 +13,8 @@
 </h4>
 
 <h3> Exercício 02 - Resposta </h3>
--->> IMAGEM AQUI << --
+
+![Solução](Ex02-Solução.png)
 
 <h4>Outros Exercícios da Lista</h4>
   
